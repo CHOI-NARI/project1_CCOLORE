@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/project1_CCOLORE/static/css/main.9e2b1796.css",
+    "main.js": "/project1_CCOLORE/static/js/main.524fd665.js",
+    "index.html": "/project1_CCOLORE/index.html",
+    "main.9e2b1796.css.map": "/project1_CCOLORE/static/css/main.9e2b1796.css.map",
+    "main.524fd665.js.map": "/project1_CCOLORE/static/js/main.524fd665.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e2b1796.css",
+    "static/js/main.524fd665.js"
+  ]
+}
